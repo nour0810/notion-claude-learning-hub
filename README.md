@@ -133,12 +133,12 @@ Claude will guide you step-by-step: building the elegant dashboard, adding the f
 
 **A fully structured system in Notion:**
 
-Organized knowledge base
-Summarized content
-Categorized resources
-Personalized learning roadmap
-Study schedule
-Progress tracker 
+Organized knowledge base,
+Summarized content,
+Categorized resources,
+Personalized learning roadmap,
+Study schedule,
+Progress tracker,
 
 ---
 
