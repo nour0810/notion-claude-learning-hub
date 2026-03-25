@@ -42,21 +42,37 @@ The result? Consistent progress without the burnout.
 
 ## ⚙️ Features
 **📚 Automatic content analysis**
+
 Extracts and summarizes information from links and PDFs
+
 **🗂️ Smart classification**
+
 Organizes resources (courses, tools, blogs, videos, papers)
+
 **🧭 Learning path generation**
+
 Structures content into logical progression
+
 **🧠 Knowledge base creation**
+
 Builds a structured dashboard inside Notion
+
 **⏱️ Time management**
+
 Generates a study schedule (emploi du temps)
+
 Assigns time slots for each topic
+
 **🔔 Reminders & quizzes**
+
 Schedules revision sessions and quizzes
+
 Sends reminders
+
 **📊 Progress tracking**
+
 Tracks learning status (pending / ongoing / completed)
+
 Updates dynamically
 
 ---
