@@ -6,7 +6,8 @@ A warm, intelligent, science-backed **Personal Learning Companion** that turns N
 
 **Powered by Genoflow** ❤️
 
-![Nour's Master Learning Dashboard](Nour's Master Learning Dashboard.png)
+Master Learning Dashboard
+<img width="1688" height="887" alt="Image" src="https://github.com/user-attachments/assets/941b5953-63c2-4d81-9aaf-3f86d1966630" />
 
 --- 
 
