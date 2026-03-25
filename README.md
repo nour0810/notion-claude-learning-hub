@@ -1,39 +1,88 @@
-```markdown
 # 🧠 notion-claude-learning-hub
 
-**Claude Learning Companion v4**  
-A beautiful, elegant, gamified Personal Learning Hub for Notion + Google Calendar
+**Claude Learning Companion v4**
+
+A warm, intelligent, science-backed **Personal Learning Companion** that turns Notion into a **beautiful, elegant, and highly motivating learning hub** — complete with smart Google Calendar automation.
 
 **Powered by Genoflow** ❤️
 
-![Nour's Master Learning Dashboard](https://github.com/YOUR-USERNAME/notion-claude-learning-hub/raw/main/screenshots/dashboard-1.png)
+![Nour's Master Learning Dashboard](screenshots/dashboard-1.png)
 
-## ✨ Features
+---
 
-- Elegant Notion dashboard (uses free premium student templates)
-- Full RPG system: Levels, XP, Streaks, 12 Badges, Portfolio “Wall of Wins”
-- Google Calendar automation (popup reminders only)
-- Personalized 15-week roadmap (Python → Data Science → AI/ML → Biology → BioAI Projects)
-- Daily missions + Pomodoro tracking
-- Visual Learning Calendar as Mission Board
+## ✨ Why You'll Love This
 
-**Example Dashboard (Nour’s setup):**
-- Tracks: Python & Programming · AI/ML · Data Science & Analytics · Biology
-- Phase 1–5 roadmap already built
-- Today’s Mission ready
+Learning alone can feel overwhelming and scattered.
 
-## 🚀 Quick Start
+This skill changes that.
 
-1. Go to the [SKILL.md](SKILL.md) file
-2. Copy everything
-3. Paste into a new Claude chat
-4. Type: `Activate this skill and start my onboarding`
+It creates a calm, premium aesthetic dashboard layered with powerful RPG gamification — so every day feels purposeful and rewarding.
 
-## 📁 What’s Inside
+You get:
+- Beautiful, motivating design that inspires you to open it
+- Full RPG system: Levels, XP, daily streaks, 12 inspiring badges, and a stunning Wall of Wins
+- Smart Google Calendar automation with popup reminders
+- A clear personalized roadmap and daily missions
+- A dedicated AI companion that celebrates your progress with genuine warmth
 
-- `SKILL.md` — Main skill (paste into Claude)
-- `QUICK_START.md` — 10-minute launch guide
-- `references/` — XP system + badge details
-- Screenshots of the final dashboard
+The result? Consistent progress without the burnout.
 
-**Ready to use — just activate!**
+---
+
+## 🚀 How to Get Started (5 Minutes)
+
+1. In Notion, open or create a clean page and rename it to **"Master Learning Dashboard"**.
+
+2. Open the [`SKILL.md`](SKILL.md) file in this repository.
+
+3. Copy the **entire content**.
+
+4. Start a new chat with Claude.
+
+5. Paste everything and type exactly this:
+
+   > `Activate this skill and start my onboarding`
+
+Claude will guide you step-by-step: building the elegant dashboard, adding the full gamification system, setting up Google Calendar, and launching your first mission with real encouragement.
+
+---
+
+## 📸 What Your Dashboard Will Look Like
+
+![RPG Stats](screenshots/rpg-stats.png)  
+![Learning Roadmap](screenshots/roadmap.png)  
+![Daily Missions & Calendar](screenshots/calendar.png)
+
+*(Real example from Nour’s setup — Python, AI/ML, Data Science & Biology tracks)*
+
+---
+
+## ✨ v4 Highlights
+
+- 🎨 Elegant premium aesthetic dashboard
+- ⚔️ Complete RPG gamification (Levels, XP, Streaks, 12 Badges, Portfolio)
+- 📅 Google Calendar automation (popup notifications only)
+- 🛠 New Tools Discovered corner
+- 🗓 Visual Learning Calendar as your Mission Board
+- Fully generic — works for any learning goal
+
+---
+
+## 📁 What's Inside
+
+- `SKILL.md` — The complete skill (copy & paste to activate)
+- `QUICK_START.md` — One-page fast launch guide
+- `references/` — XP system details + badge guide
+- `screenshots/` — Real dashboard examples
+
+---
+
+**Ready to transform your learning journey?**
+
+Open [`SKILL.md`](SKILL.md), activate the skill, and let Claude become your personal Learning Companion.
+
+**Built with ❤️ for curious minds who want beautiful structure and real progress.**
+
+---
+
+⭐ If this inspires you, star the repo!
