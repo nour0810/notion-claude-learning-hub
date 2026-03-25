@@ -49,10 +49,17 @@ Claude will guide you step-by-step: building the elegant dashboard, adding the f
 ---
 
 ## 📸 What Your Dashboard Will Look Like
+**RPG Stats & Today's Mission**
+<img width="1265" height="820" alt="Image" src="https://github.com/user-attachments/assets/0a873bae-4311-4d17-9471-f0d9749400b4" />
 
-![RPG Stats](screenshots/rpg-stats.png)  
-![Learning Roadmap](screenshots/roadmap.png)  
-![Daily Missions & Calendar](screenshots/calendar.png)
+**Learning Roadmap**
+<img width="1265" height="782" alt="Image" src="https://github.com/user-attachments/assets/90f65c19-7671-4835-8c8d-a8899fef922a" />
+
+**Learning Resources Hub**
+<img width="1783" height="566" alt="Image" src="https://github.com/user-attachments/assets/e43213e3-4e0e-4fb0-b0ad-57df4831c42b" />
+
+**Calendar**
+<img width="1802" height="866" alt="Image" src="https://github.com/user-attachments/assets/79a3206b-383f-4a87-80b9-b2b92f246784" />
 
 *(Real example from Nour’s setup — Python, AI/ML, Data Science & Biology tracks)*
 
