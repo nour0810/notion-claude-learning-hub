@@ -2,7 +2,9 @@
 
 **Claude Learning Companion v4**
 
-A warm, intelligent, science-backed **Personal Learning Companion** that turns Notion into a **beautiful, elegant, and highly motivating learning hub** — complete with smart Google Calendar automation.
+**AI-driven system that transforms learning resources into a structured, trackable, and time-managed knowledge system using Claude, Notion, and calendar integration.**
+
+This project implements a Claude skill that converts unstructured educational content into an organized learning dashboard with progress tracking and automated scheduling.
 
 **Powered by Genoflow** ❤️
 
@@ -15,9 +17,17 @@ Master Learning Dashboard
 
 Learning alone can feel overwhelming and scattered.
 
-This skill changes that.
+Learning resources are often:
 
-It creates a calm, premium aesthetic dashboard layered with powerful RPG gamification — so every day feels purposeful and rewarding.
+* scattered (links, PDFs, videos)
+* unstructured
+* hard to track over time
+
+**This system solves that by transforming:**
+
+     Passive resources → Active learning system
+
+This skill changes that. It creates a calm, premium aesthetic dashboard layered with powerful RPG gamification — so every day feels purposeful and rewarding.
 
 You get:
 - Beautiful, motivating design that inspires you to open it
@@ -27,6 +37,53 @@ You get:
 - A dedicated AI companion that celebrates your progress with genuine warmth
 
 The result? Consistent progress without the burnout.
+
+---
+
+## ⚙️ Features
+**📚 Automatic content analysis**
+Extracts and summarizes information from links and PDFs
+**🗂️ Smart classification**
+Organizes resources (courses, tools, blogs, videos, papers)
+**🧭 Learning path generation**
+Structures content into logical progression
+**🧠 Knowledge base creation**
+Builds a structured dashboard inside Notion
+**⏱️ Time management**
+Generates a study schedule (emploi du temps)
+Assigns time slots for each topic
+**🔔 Reminders & quizzes**
+Schedules revision sessions and quizzes
+Sends reminders
+**📊 Progress tracking**
+Tracks learning status (pending / ongoing / completed)
+Updates dynamically
+
+---
+
+## 🔁 Workflow
+Resources (links + PDFs)
+        ↓
+Claude (analysis + classification + planning)
+        ↓
+Notion (structured dashboard + knowledge base)
+        ↓
+Calendar (schedule + reminders)
+        ↓
+Progress tracking + continuous updates
+
+---
+
+## 📥 Input
+**🌐 Online resources:**
+Courses
+Blogs
+Tools
+Videos
+**📄 Documents:**
+Books
+Research papers
+Certificates
 
 ---
 
@@ -45,6 +102,19 @@ The result? Consistent progress without the burnout.
    > `Activate this skill and start my onboarding`
 
 Claude will guide you step-by-step: building the elegant dashboard, adding the full gamification system, setting up Google Calendar, and launching your first mission with real encouragement.
+
+---
+
+## 📤 Output
+
+**A fully structured system in Notion:**
+
+Organized knowledge base
+Summarized content
+Categorized resources
+Personalized learning roadmap
+Study schedule
+Progress tracker 
 
 ---
 
@@ -88,6 +158,8 @@ Claude will guide you step-by-step: building the elegant dashboard, adding the f
 **Ready to transform your learning journey?**
 
 Open [`SKILL.md`](SKILL.md), activate the skill, and let Claude become your personal Learning Companion.
+
+This project is not just a tool — it is a learning operating system that structures, schedules, and tracks knowledge acquisition automatically.
 
 **Built with ❤️ for curious minds who want beautiful structure and real progress.**
 
