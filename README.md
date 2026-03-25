@@ -78,7 +78,7 @@ Updates dynamically
 ---
 
 ## 🔁 Workflow
-                                                 Resources (links + PDFs)
+                                            Notion (learning Resources)
 
                                                         ↓
         
@@ -98,22 +98,28 @@ Updates dynamically
 
 ---
 
-## 📥 Input
-**🌐 Online resources:**
+## 📂 Input: Learning Resources (Core Data Source) ⭐
+
+All learning materials must be stored in a dedicated Notion page or database named: **“learning resources”**
+
+
+This page acts as the central input hub of the system.
+
+**📥 What it contains**
+🌐 Links:
 Courses,
 Blogs,
 Tools,
-Videos
-**📄 Documents:**
-Books,
-Research papers,
-Certificates
+YouTube videos,
+📄 Documents:
+PDFs (books, papers, certificates)
 
----
+
+ ---
 
 ## 🚀 How to Get Started (5 Minutes)
 
-1. In Notion, open or create a clean page and rename it to **"Master Learning Dashboard"**.
+1. In Notion, open or create a clean page and rename it to **learning sources** (put your resources in that page).
 
 2. Open the [`SKILL.md`](SKILL.md) file in this repository.
 
@@ -123,9 +129,11 @@ Certificates
 
 5. Paste everything and type exactly this:
 
-   > `Activate this skill and start my onboarding`
+   > `Activate this skill and start my onboarding.`
 
 Claude will guide you step-by-step: building the elegant dashboard, adding the full gamification system, setting up Google Calendar, and launching your first mission with real encouragement.
+
+**Note: Before starting, ensure that your Notion workspace and calendar are connected to Claude.**
 
 ---
 
@@ -138,7 +146,7 @@ Summarized content,
 Categorized resources,
 Personalized learning roadmap,
 Study schedule,
-Progress tracker,
+Progress tracker.
 
 ---
 
@@ -157,6 +165,36 @@ Progress tracker,
 
 *(Real example from Nour’s setup — Python, AI/ML, Data Science & Biology tracks)*
 
+---
+
+## 🧪 Example
+
+Input (in Notion - Learning Resources):
+
+- YouTube course on Python
+  
+- Blog about machine learning
+  
+- PDF book on statistics
+
+Claude will:
+
+- Summarize each resource
+  
+- Classify them (Python / ML / Statistics)
+  
+- Create a learning path
+  
+- Schedule study sessions
+
+Output:
+
+- Structured Notion dashboard
+  
+- Weekly study plan
+  
+- Progress tracker
+  
 ---
 
 ## ✨ v4 Highlights
