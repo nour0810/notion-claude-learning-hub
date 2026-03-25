@@ -78,27 +78,35 @@ Updates dynamically
 ---
 
 ## 🔁 Workflow
-Resources (links + PDFs)
-        ↓
-Claude (analysis + classification + planning)
-        ↓
-Notion (structured dashboard + knowledge base)
-        ↓
-Calendar (schedule + reminders)
-        ↓
-Progress tracking + continuous updates
+                                                 Resources (links + PDFs)
+
+                                                        ↓
+        
+                                     Claude (analysis + classification + planning)
+
+                                                        ↓
+        
+                                     Notion (structured dashboard + knowledge base)
+
+                                                        ↓
+        
+                                          Calendar (schedule + reminders)
+
+                                                        ↓
+        
+                                         Progress tracking + continuous updates
 
 ---
 
 ## 📥 Input
 **🌐 Online resources:**
-Courses
-Blogs
-Tools
+Courses,
+Blogs,
+Tools,
 Videos
 **📄 Documents:**
-Books
-Research papers
+Books,
+Research papers,
 Certificates
 
 ---
